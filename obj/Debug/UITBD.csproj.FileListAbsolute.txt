@@ -1,0 +1,7 @@
+D:\UITBD\bin\UITBD.dll.config
+D:\UITBD\bin\UITBD.dll
+D:\UITBD\bin\UITBD.pdb
+D:\UITBD\obj\Debug\UITBD.csproj.AssemblyReference.cache
+D:\UITBD\obj\Debug\UITBD.csproj.CoreCompileInputs.cache
+D:\UITBD\obj\Debug\UITBD.dll
+D:\UITBD\obj\Debug\UITBD.pdb
